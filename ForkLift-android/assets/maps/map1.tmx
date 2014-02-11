@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="25" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="ForkLiftMap" tilewidth="16" tileheight="16" spacing="1" margin="1">
+  <tileoffset x="1" y="1"/>
+  <image source="ForkLiftMap.png" width="800" height="480"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="25">
+  <data encoding="base64" compression="zlib">
+   eJzt1VOwHVYUBuCT3HvCxjZrN21TIymS2rbd1I5t27Zt27ZtG/3OdPpy308yc2Y/fG971lr/Wg+7VCQSKRUEQRAEQRAEQRAEQRAEQRAEQZBAKiZFIpWoTBWqUo3q1KAmtahNHepSj/o0oCGNaEwTmtKM5rSgJa1oTRva0o72dKAjnehMF7rSje70oCe96E0f+tKP/klXfnfxMECugQxiMEMYyjCGM4KRjGI0YxjLOMYzgYlMYjJTmMo0pjODmcxiNnOYyzzms4CFLGIxS1jKMpazgpWsYjVrWMu6BL3Herk2sJFNbGYLW9nGdnawk13sZg972cd+DnCQQxzmCEc5xnFOcJJTnOYMZznHeS5wkUtEkiORVKQmiWSipCEt6UhPhuQrv7t4yCjXVWQiM1nISjayk4Oc5CI3echLPvJTgIIUojBFKEoxilOCklzNNVzLdVzPDdzITdzMLdzKbdzOHbGdcyd3cTeluYd7E/Qe98l1Pw/wIA/xMI/wKGUoy2M8zhM8STnK8xRP8wzP8hzP8wIv8hIv8wqv8hqv8wZv8hZv8w7v8h7v8wEf8hEf8wmf8hmf80WC3uNLub7ia77hW77jeyrwAz/yEz/zC7/yG7/zB3/yF3/zDxWpRGWqUJVqVKcGNalFbepQl3rUpwENaURjmtCUZjSnBS1pxQAGMojBDGEowxjOCEYyitGMYSzjGM8EJjKJyUxhKtOYHuf6KcX6zaA1bWhLO9rTgY50ojNd6Eo3utODnvSiN33oSz/6X4Y9xeaeyXo2sJFNbGYLW9nGdnawk13sZg972cd+DnCQQxzmCEc5Fuf6KcX6HWcWs5nDXOYxnwUsZBGLWcJSlrGcFaxkFatZw1rWXYY9xeY+Qcaov49MZCYLWclGdnKQk1zkJg95yUd+ClCQQhSmCEUpRvFofOunFOtXgpNyneI0ZzjLOc5zgYtcIuJtKlKTRDJR0pCWdKQnQ5xz/D93yeh/f12i+RcV5MiH
+  </data>
+ </layer>
+</map>

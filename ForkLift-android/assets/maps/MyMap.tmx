@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="500" height="25" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="9198" tilewidth="16" tileheight="16" spacing="1" margin="1">
+  <tileoffset x="1" y="1"/>
+  <image source="9198.png" width="343" height="410"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="500" height="25">
+  <data encoding="base64" compression="zlib">
+   eJzt1VtKw1AUhtGCoCL46IMXUAfgBdQBeAF1IA6iA+v83EKFEGJPko3sUtaCD3s5SYkv/2qxWKy0NQHAHNX7JXsOQF71fsmeA5BXvV+y5wDkVe+X7DkAedX7JXsOQF71fsmeA5BXvV+y5wDkVe+X7DkAedX7JXsOQF71fsmeA5BXvV+y5wDkVe+X7DkAedX7JXsOQF71fsmeA5BXvV+y5wDktfZlPzpYdzji/K70X8/dui8AzNHan9PoLDqPLkac35WmPvdldBVd915PvS8AzHHS6av3/qeb6Da6i+5HnO9+t+n71n3GXjv17NjrNj330LUP0WP01HvdP9+6LwDM0d2S5frvUafn6CV6jd46n3fPD7VsfD/0u63Pxlx/PPO61nMPXds9/x59RJ+91/3f+uv/+RsAzLGnrQoA5qjeL9lzAPKq90v2HIC86v2SPQcgr3q/ZM8ByPsGlQwH7w==
+  </data>
+ </layer>
+</map>

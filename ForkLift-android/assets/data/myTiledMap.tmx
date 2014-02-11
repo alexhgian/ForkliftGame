@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="64" height="6" tilewidth="16" tileheight="16">
+ <imagelayer name="Image Layer 1" width="64" height="6">
+  <image source="../gfx/Ground.png"/>
+ </imagelayer>
+</map>
