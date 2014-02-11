@@ -121,10 +121,10 @@ public class Play implements Screen {
 		renderer = new OrthogonalTiledMapRenderer(map, 10*myScale);
 	
 		//End Map Setup
-	    myForklift = new Forklift(world,11f);//Default scale is 20
-	    myLevel = new Level(world,800*myScale);
+	    	myForklift = new Forklift(world,11f);//Default scale is 20
+	    	myLevel = new Level(world,800*myScale);
 	    
-	    bomb = new Bomb(world,4);
+	    	bomb = new Bomb(world,4);
 		//platform(79);
 		Gdx.input.setInputProcessor(myForklift);
 		
