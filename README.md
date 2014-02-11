@@ -1,4 +1,4 @@
-ForkliftProjectGitHub
+Forklift Game
 =====================
 
 libGDX Forklift Game
