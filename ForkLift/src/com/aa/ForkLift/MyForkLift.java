@@ -13,7 +13,8 @@ public class MyForkLift extends Game{
 	private Sprite sprite;
 	
 	@Override
-	public void create() {		
+	public void create() {	
+		//Begin by setting screen
 		this.setScreen(new Play());
 	}
 
