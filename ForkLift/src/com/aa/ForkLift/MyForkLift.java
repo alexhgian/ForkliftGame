@@ -14,7 +14,7 @@ public class MyForkLift extends Game{
 	
 	@Override
 	public void create() {	
-		//Begin by setting screen
+		//Begin by setting screen to Play where the majority of the code is located.
 		this.setScreen(new Play());
 	}
 
